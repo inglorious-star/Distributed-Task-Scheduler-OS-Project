@@ -44,8 +44,8 @@ python3 --version
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/distributed-task-scheduler.git
-   cd distributed-task-scheduler
+   git clone https://github.com/inglorious-star/Distributed-Task-Scheduler-OS-Project.git
+   cd Distributed-Task-Scheduler-OS-Project/Code-OS-Project/Code
    ```
 
 2. Run the program:
