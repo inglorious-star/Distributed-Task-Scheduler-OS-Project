@@ -1,5 +1,7 @@
 # ⚙️ Distributed Task Scheduler
 
+> 🎓 Mini lab project for **CSE324: Operating System Lab**, Daffodil International University · Team of 5
+
 A terminal-based **Distributed Task Scheduler** built in **Python**, simulating how an operating system schedules tasks based on **priority**, **CPU**, **RAM**, **storage**, and **execution time** — including real-time **preemption** (higher-priority tasks can pause lower-priority ones).
 
 ---
@@ -45,7 +47,7 @@ python3 --version
 1. Clone this repository:
    ```bash
    git clone https://github.com/inglorious-star/Distributed-Task-Scheduler-OS-Project.git
-   cd Distributed-Task-Scheduler-OS-Project/Code-OS-Project/Code
+   cd Distributed-Task-Scheduler-OS-Project
    ```
 
 2. Run the program:
@@ -114,9 +116,10 @@ Type `refresh` anytime to see the current status update.
 ## 📁 Project Structure
 
 ```
-distributed-task-scheduler/
-├── dts30.py       # Main scheduler program
-└── README.md      # This file
+Distributed-Task-Scheduler-OS-Project/
+├── dts30.py                       # Main scheduler program
+├── DTS Final Project Report.pdf   # Full project report
+└── README.md                      # This file
 ```
 
 ---
